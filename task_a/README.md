@@ -12,9 +12,13 @@ Basic Build Instructions
 
 1- open terminal in folder task_a.
 
-2- Make a build directory in the top level directory: mkdir build && cd build
-    (feel free to delete old build directroy and make a new one if something goes wrong)
+2- Make a build directory in the top level directory: 
+    mkdir build && cd build
+    
+(feel free to delete old build directroy and make a new one if something goes wrong)
 
-3- Compile: cmake .. && make
+3- Compile: 
+    cmake .. && make
 
-4- Run it: ./task_a.
+4- Run it:
+    ./task_a.
